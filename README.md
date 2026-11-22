@@ -28,5 +28,5 @@ This project uses the YuNet ONNX model, which is highly optimized for real-time 
 Once the webcam window opens, the system will automatically detect faces and draw a green bounding box around them. Press q to quit the application.
 
 ## 👤 Author
-Mohammad - [My GitHub Profile](https://github.com/mohammad-poursafari)
+Mohammad Poursafari - [My GitHub Profile](https://github.com/mohammad-poursafari)
 
