@@ -16,7 +16,7 @@ This project uses the YuNet ONNX model, which is highly optimized for real-time 
 
 ## 📦 Installation & Usage
 
-1. Clone this repository: [Click here to download the code](https://github.com/mohammadpouri1m-lab)
+1. Clone this repository: [Click here to download the code](https://github.com/mohammadpouri1m-lab/Face-Recognition.git)
 
 2. Install the required dependencies:
    pip install opencv-python
